@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "3363931015",
+    "firebase_url": "https://new-chat-app-6dae3-default-rtdb.firebaseio.com",
+    "project_id": "new-chat-app-6dae3",
+    "storage_bucket": "new-chat-app-6dae3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3363931015:android:36227a3ef190654a1d4922",
+        "android_client_info": {
+          "package_name": "com.emilabdurahmanli.chatapprealtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3363931015-vfog2ft6t24hifokcsn8rj88bu48a7a5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSjtKzXWN5Mp_3_QvyX--EcNTuRvSVH30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3363931015-i2pgqgoue3hpp4mmvgb9un82tafai297.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
